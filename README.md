@@ -5,9 +5,12 @@ Graduate of the Coding Academy - an intensive coding bootcamp (640 h) for Full S
 Former Project Manager, Animator and Videographer at Snowball VFX and Orpan group.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="mailto:nadav.eliash@gmail.com"><img align="center"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"
+            alt="email" height="30" width="35" /></a>
     <a href="https://linkedin.com/in/nadav-eliash-b7039273" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="nadav eliash" height="30" width="40" /></a>
+            alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
