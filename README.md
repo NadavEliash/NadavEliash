@@ -57,7 +57,7 @@ Former Project Manager, Animator and Videographer at Snowball VFX and Orpan grou
             src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
             width="30" height="30" /> </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+            src="https://www.svgrepo.com/show/373968/photoshop.svg"
             alt="photoshop" width="30" height="30" /> </a>
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img
             src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
