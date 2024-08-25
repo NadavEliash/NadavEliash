@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadav</h1>
-<h3 align="center">A passionate Fullstack developer</h3>
-<p>Frontend / Full Stack Web Developer with experience in writing single-page-applications using the latest WEB technologies, including React.js, Redux, Node.js, Vue.js and Angular.
-Graduate of the Coding Academy - an intensive coding bootcamp (640 h) for Full Stack developers.
+<h3 align="center">A passionate Backend, Frontend developer</h3>
+<p>Web Developer with experience in writing single-page-applications using the latest WEB technologies, including Java Springboot, Docker, React, Redux, Node.js, Vue.js and Angular.
+Graduate of the Coding Academy - an intensive coding bootcamp (640 h) for web developers.
 Former Project Manager, Animator and Videographer at Snowball VFX and Orpan group.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
